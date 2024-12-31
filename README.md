@@ -6,7 +6,8 @@ A bio can say a lot about a person. It can reveal your interests, sense of humor
 
 You use this AI **[Instagram Bio Generator](https://instabiogenerator.net/)** tool to generate attrative, simple, asthetic bios for you.
 
-[![Insta Bio Generator]((https://instabiogenerator.net/logo.png))](https://instabiogenerator.net/)
+[![Insta Bio Generator](https://instabiogenerator.net/logo.png)](https://instabiogenerator.net/)
+
 
 
 ## Why is an Instagram Bio Important?
