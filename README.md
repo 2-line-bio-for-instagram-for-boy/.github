@@ -6,6 +6,9 @@ A bio can say a lot about a person. It can reveal your interests, sense of humor
 
 You use this AI **[Instagram Bio Generator](https://instabiogenerator.net/)** tool to generate attrative, simple, asthetic bios for you.
 
+[![Insta Bio Generator]([https://example.com/image.jpg](https://instabiogenerator.net/logo.png))](https://instabiogenerator.net/)
+
+
 ## Why is an Instagram Bio Important?
 
 Before diving into the ideas, it’s essential to understand the role of an Instagram bio. Your bio is the first thing people see when they visit your profile. It’s an introduction to who you are. In two short lines, you can express your interests, showcase your talents, or even provide a glimpse of your life’s philosophy. 
